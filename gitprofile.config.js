@@ -64,7 +64,7 @@ const config = {
       title: 'Elavator Pitch',
       description:
         '',
-      imageUrl: 'https://drive.google.com/file/d/1E7V7eOdpxekrovJzh87kIqXtYEysB_ES/view?usp=drive_link',
+      imageUrl: 'https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L2pvYjcyNS0wMTItcC5wbmc.png',
       link: 'https://docs.google.com/document/d/1V6cWqGz2OShy49zP6QQHubutHVBFP3DGRcy_kplSpBM/edit?usp=sharing',
     },
     {
