@@ -61,16 +61,58 @@ const config = {
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
-      title: 'Project Name',
+      title: 'Elavator Pitch',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+        '',
+      imageUrl: 'https://via.placeholder.com/250x250',
+      link: 'https://docs.google.com/document/d/1V6cWqGz2OShy49zP6QQHubutHVBFP3DGRcy_kplSpBM/edit?usp=sharing',
+    },
+    {
+      title: 'Packet Tracer Badge',
+      description:
+        '',
+      imageUrl: 'https://via.placeholder.com/250x250',
+      link: 'https://drive.google.com/file/d/1ih7hx2YThCblzumrniu_-ebk75zoAC5J/view?usp=sharing',
+    },
+     {
+      title: '(ISC)2 Badge',
+      description:
+        '',
+      imageUrl: 'https://via.placeholder.com/250x250',
+      link: 'https://drive.google.com/file/d/1LPZ5RN7FvUnW3W_onrL7JwqZ7n3crrN2/view?usp=sharing',
+    },
+     {
+      title: 'AWS Badge',
+      description:
+        '',
       imageUrl: 'https://via.placeholder.com/250x250',
       link: 'https://example.com',
     },
-    {
-      title: 'Project Name',
+     {
+      title: 'Financial Services Fictional Case',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+        '',
+      imageUrl: 'https://via.placeholder.com/250x250',
+      link: 'https://example.com',
+    },
+     {
+      title: 'NIST Security Incident',
+      description:
+        '',
+      imageUrl: 'https://via.placeholder.com/250x250',
+      link: 'https://example.com',
+    },
+     {
+      title: 'Home Network Heatmap',
+      description:
+        '',
+      imageUrl: 'https://via.placeholder.com/250x250',
+      link: 'https://example.com',
+    },
+     {
+      title: 'Kali Linux',
+      description:
+        '',
       imageUrl: 'https://via.placeholder.com/250x250',
       link: 'https://example.com',
     },
