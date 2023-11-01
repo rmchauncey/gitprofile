@@ -64,56 +64,56 @@ const config = {
       title: 'Elavator Pitch',
       description:
         '',
-      imageUrl: 'https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L2pvYjcyNS0wMTItcC5wbmc.png',
+      imageUrl: 'https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L2pvYjcyNS0wMTIuanBn.jpg',
       link: 'https://docs.google.com/document/d/1V6cWqGz2OShy49zP6QQHubutHVBFP3DGRcy_kplSpBM/edit?usp=sharing',
     },
     {
       title: 'Packet Tracer Badge',
       description:
         '',
-      imageUrl: 'https://via.placeholder.com/250x250',
+      imageUrl: 'https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L2pvYjcyNS0wMTIuanBn.jpg',
       link: 'https://drive.google.com/file/d/1ih7hx2YThCblzumrniu_-ebk75zoAC5J/view?usp=sharing',
     },
      {
       title: '(ISC)2 Badge',
       description:
         '',
-      imageUrl: 'https://via.placeholder.com/250x250',
+      imageUrl: 'https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L2pvYjcyNS0wMTIuanBn.jpg',
       link: 'https://drive.google.com/file/d/1LPZ5RN7FvUnW3W_onrL7JwqZ7n3crrN2/view?usp=sharing',
     },
      {
       title: 'AWS Badge',
       description:
         '',
-      imageUrl: 'https://via.placeholder.com/250x250',
+      imageUrl: 'https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L2pvYjcyNS0wMTIuanBn.jpg',
       link: 'https://example.com',
     },
      {
       title: 'Financial Services Fictional Case',
       description:
         '',
-      imageUrl: 'https://via.placeholder.com/250x250',
+      imageUrl: 'https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L2pvYjcyNS0wMTIuanBn.jpg',
       link: 'https://example.com',
     },
      {
       title: 'NIST Security Incident',
       description:
         '',
-      imageUrl: 'https://via.placeholder.com/250x250',
+      imageUrl: 'https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L2pvYjcyNS0wMTIuanBn.jpg',
       link: 'https://example.com',
     },
      {
       title: 'Home Network Heatmap',
       description:
         '',
-      imageUrl: 'https://via.placeholder.com/250x250',
+      imageUrl: 'https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L2pvYjcyNS0wMTIuanBn.jpg',
       link: 'https://example.com',
     },
      {
       title: 'Kali Linux',
       description:
         '',
-      imageUrl: 'https://via.placeholder.com/250x250',
+      imageUrl: 'https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L2pvYjcyNS0wMTIuanBn.jpg',
       link: 'https://example.com',
     },
   ],
