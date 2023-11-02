@@ -93,28 +93,28 @@ const config = {
       description:
         '',
       imageUrl: 'https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L2pvYjcyNS0wMTIuanBn.jpg',
-      link: 'https://example.com',
+      link: 'https://docs.google.com/document/d/1OdK7PerjbSNdnuh5x9zd09e0OYtoZtnM/edit?usp=sharing&ouid=108312881197280114839&rtpof=true&sd=true',
     },
      {
       title: 'NIST Security Incident',
       description:
         '',
       imageUrl: 'https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L2pvYjcyNS0wMTIuanBn.jpg',
-      link: 'https://example.com',
+      link: 'https://docs.google.com/document/d/1B-504kWFHNL86aPSL4ADtotd1wMGNhtq/edit?usp=sharing&ouid=108312881197280114839&rtpof=true&sd=true',
     },
      {
       title: 'Home Network Heatmap',
       description:
         '',
       imageUrl: 'https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L2pvYjcyNS0wMTIuanBn.jpg',
-      link: 'https://example.com',
+      link: 'https://docs.google.com/document/d/1isqSoYFpeFZvq75fOAXi5uZgC_Mb2J2UaHfNRz5lQfs/edit?usp=sharing',
     },
      {
       title: 'Kali Linux',
       description:
         '',
       imageUrl: 'https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L2pvYjcyNS0wMTIuanBn.jpg',
-      link: 'https://example.com',
+      link: 'https://docs.google.com/document/d/149hVII4leJVMOPZ4TxAb3H0XVStd0ZcA/edit?usp=sharing&ouid=108312881197280114839&rtpof=true&sd=true',
     },
   ],
   // Display blog posts from your medium or dev account. (Optional)
