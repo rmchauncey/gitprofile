@@ -107,7 +107,7 @@ const config = {
       description:
         '',
       imageUrl: 'https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L2pvYjcyNS0wMTIuanBn.jpg',
-      link: 'https://docs.google.com/document/d/1isqSoYFpeFZvq75fOAXi5uZgC_Mb2J2UaHfNRz5lQfs/edit?usp=sharing',
+      link: 'https://drive.google.com/file/d/1ahzqIX1qAAdrxcWcCoyCyKtpBVycd_OM/view?usp=sharing',
     },
      {
       title: 'Kali Linux',
