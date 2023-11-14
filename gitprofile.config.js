@@ -67,6 +67,13 @@ const config = {
       imageUrl: 'https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L2pvYjcyNS0wMTIuanBn.jpg',
       link: 'https://docs.google.com/document/d/1V6cWqGz2OShy49zP6QQHubutHVBFP3DGRcy_kplSpBM/edit?usp=sharing',
     },
+     {
+      title: 'Final Project Report',
+      description:
+        '',
+      imageUrl: 'https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L2pvYjcyNS0wMTIuanBn.jpg',
+      link: 'https://example.com',
+    },
     {
       title: 'Packet Tracer Badge',
       description:
