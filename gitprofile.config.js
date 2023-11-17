@@ -93,7 +93,7 @@ const config = {
       description:
         '',
       imageUrl: 'https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L2pvYjcyNS0wMTIuanBn.jpg',
-      link: 'https://example.com',
+      link: 'https://drive.google.com/file/d/1G2Mm2kOPMOQSaeTTtrOEbAr5gBCDJAC-/view?usp=sharing',
     },
      {
       title: 'Financial Services Fictional Case',
