@@ -123,6 +123,13 @@ const config = {
       imageUrl: 'https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L2pvYjcyNS0wMTIuanBn.jpg',
       link: 'https://docs.google.com/document/d/149hVII4leJVMOPZ4TxAb3H0XVStd0ZcA/edit?usp=sharing&ouid=108312881197280114839&rtpof=true&sd=true',
     },
+    {
+      title: 'TryHackMe SQL Injection',
+      description:
+        '',
+      imageUrl: 'https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L2pvYjcyNS0wMTIuanBn.jpg',
+      link: 'https://docs.google.com/document/d/1u3ZAXjXHU9DgrlbRUadLONgieqyeFHO1/edit?usp=drive_link&ouid=108312881197280114839&rtpof=true&sd=true',
+    },
   ],
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
